@@ -1,0 +1,235 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Getway/f:DBGetway.cs" caret="434" fromTop="17" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:DepartmentUI.aspx.designer.cs" caret="0" fromTop="0" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Getway/f:DepartmentGetway.cs" caret="271" fromTop="0" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Manager/f:DepartmentManager.cs" caret="592" fromTop="25" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:DepartmentUI.aspx.cs" caret="726" fromTop="23" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Getway/f:StudentGetway.cs" caret="1418" fromTop="25" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:DAO/f:Department.cs" caret="235" fromTop="12" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:DAO/f:Student.cs" caret="422" fromTop="15" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Manager/f:StudentManager.cs" caret="394" fromTop="15" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/f:Web.config" caret="292" fromTop="10" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx.cs" caret="2032" fromTop="16" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx" caret="4431" fromTop="31" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:DepartmentUI.aspx" caret="0" fromTop="0" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/f:Default.aspx" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx.cs" caret="362" fromTop="13" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Getway/f:DepartmentGetway.cs" caret="1215" fromTop="24" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Getway/f:DepartmentGetway.cs" caret="1588" fromTop="25" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Manager/f:DepartmentManager.cs" caret="531" fromTop="22" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx.cs" caret="1117" fromTop="21" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx.cs" caret="746" fromTop="12" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Manager/f:DepartmentManager.cs" caret="371" fromTop="13" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Getway/f:StudentGetway.cs" caret="767" fromTop="15" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Getway/f:StudentGetway.cs" caret="1639" fromTop="9" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Getway/f:StudentGetway.cs" caret="1922" fromTop="17" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Getway/f:StudentGetway.cs" caret="2466" fromTop="32" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx.cs" caret="2315" fromTop="17" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:DepartmentUI.aspx.cs" caret="839" fromTop="25" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx" caret="2317" fromTop="16" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:DAO/f:Student.cs" caret="422" fromTop="14" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:DAO/f:Department.cs" caret="170" fromTop="10" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx" caret="0" fromTop="0" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx.cs" caret="2746" fromTop="24" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx.cs" caret="2498" fromTop="11" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx" caret="3979" fromTop="25" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx" caret="1837" fromTop="25" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx" caret="1484" fromTop="12" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx" caret="1484" fromTop="12" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx" caret="3839" fromTop="12" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx.cs" caret="1211" fromTop="15" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx.cs" caret="1647" fromTop="28" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:DAO/f:Student.cs" caret="189" fromTop="9" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Getway/f:StudentGetway.cs" caret="531" fromTop="10" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:Getway/f:StudentGetway.cs" caret="1330" fromTop="22" />
+      <File id="8ABD6399-F78E-4B82-B427-698A73FA56A6/d:UI/f:StudentUI.aspx.cs" caret="2032" fromTop="16" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="AspCodeCompletionContext">
+      <Item value="td" priority="139" />
+      <Item value="colspan" priority="34" />
+      <Item value="align" priority="27" />
+      <Item value="center" priority="20" />
+      <Item value="tr" priority="70" />
+      <Item value="table" priority="6" />
+      <Item value="right" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="639" />
+      <Item value="string" priority="542" />
+      <Item value="int" priority="314" />
+      <Item value="StudentInfo" priority="31" />
+      <Item value="aStudent" priority="931" />
+      <Item value="new" priority="639" />
+      <Item value="Student" priority="115" />
+      <Item value="studentNameTextBox" priority="95" />
+      <Item value="Convert`0" priority="543" />
+      <Item value="rollNoTextBox" priority="63" />
+      <Item value="regNoTextBox" priority="63" />
+      <Item value="ageTextBox" priority="63" />
+      <Item value="List" priority="481" />
+      <Item value="Student`0" priority="447" />
+      <Item value="students" priority="646" />
+      <Item value="List&lt;Student&gt;" priority="115" />
+      <Item value="if" priority="31" />
+      <Item value="Session" priority="127" />
+      <Item value="aStudentManager" priority="96" />
+      <Item value="StudentManager" priority="28" />
+      <Item value="aStudentGetway" priority="96" />
+      <Item value="StudentGetway" priority="28" />
+      <Item value="connection" priority="128" />
+      <Item value="null" priority="63" />
+      <Item value="SqlCommand`0" priority="63" />
+      <Item value="command" priority="160" />
+      <Item value="DBGetway`0" priority="95" />
+      <Item value="SqlConnection" priority="28" />
+      <Item value="SqlCommand" priority="28" />
+      <Item value="SqlConnection`0" priority="31" />
+      <Item value="Connection" priority="32" />
+      <Item value="get" priority="98" />
+      <Item value="return" priority="383" />
+      <Item value="Command" priority="32" />
+      <Item value="ConnectionObj" priority="383" />
+      <Item value="foreach" priority="31" />
+      <Item value="String`0" priority="191" />
+      <Item value="CommandObj" priority="1023" />
+      <Item value="insert" priority="63" />
+      <Item value="sqlDbType" priority="63" />
+      <Item value="astudent" priority="191" />
+      <Item value="SqlDbType`0" priority="159" />
+      <Item value="messageLabel" priority="95" />
+      <Item value="msg" priority="63" />
+      <Item value="select" priority="127" />
+      <Item value="reader" priority="959" />
+      <Item value="while" priority="127" />
+      <Item value="studentGridView" priority="159" />
+      <Item value="DataBind`0" priority="31" />
+      <Item value="SqlDataReader`0" priority="63" />
+      <Item value="DepartmentUI`0" priority="31" />
+      <Item value="aDepartment" priority="386" />
+      <Item value="Department" priority="86" />
+      <Item value="deptNameTextBox" priority="31" />
+      <Item value="aDepartmentManager" priority="129" />
+      <Item value="DepartmentManager" priority="57" />
+      <Item value="aDepartmentGetway" priority="129" />
+      <Item value="DepartmentGetway" priority="57" />
+      <Item value="Load" priority="31" />
+      <Item value="DepartmentManager`0" priority="31" />
+      <Item value="Department`0" priority="223" />
+      <Item value="DepartmentGetway`0" priority="31" />
+      <Item value="departments" priority="161" />
+      <Item value="List&lt;Department&gt;" priority="28" />
+      <Item value="dptNameDropDownList" priority="159" />
+      <Item value="ConsoleColor`0" priority="95" />
+      <Item value="Color`0" priority="31" />
+      <Item value="prop" priority="223" />
+      <Item value="Formclear`0" priority="31" />
+      <Item value="set" priority="32" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StudentInfo.DAO.Student">
+      <Item value="StudentName" priority="161" />
+      <Item value="RollNo" priority="188" />
+      <Item value="RegNo" priority="134" />
+      <Item value="Age" priority="134" />
+      <Item value="StudentId" priority="107" />
+      <Item value="DeptName" priority="27" />
+      <Item value="DDeptName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="270" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="458" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Configuration.ConfigurationManager">
+      <Item value="ConnectionStrings" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Configuration.ConnectionStringSettings">
+      <Item value="ConnectionString" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="Connection" priority="26" />
+      <Item value="Parameters" priority="567" />
+      <Item value="CommandText" priority="162" />
+      <Item value="CreateParameter`0" priority="26" />
+      <Item value="ExecuteNonQuery`0" priority="53" />
+      <Item value="ExecuteReader`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="Open`0" priority="161" />
+      <Item value="Close`0" priority="161" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="188" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameterCollection">
+      <Item value="Clear`0" priority="161" />
+      <Item value="Add`0" priority="188" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.SqlDbType">
+      <Item value="VarChar" priority="55" />
+      <Item value="Int" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameter">
+      <Item value="Value" priority="188" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="Text" priority="53" />
+      <Item value="ForeColor" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Select`2" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataReader">
+      <Item value="Read`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridView">
+      <Item value="DataSource" priority="53" />
+      <Item value="DataBind`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:StudentInfo.DAO.Department">
+      <Item value="DeptName" priority="80" />
+      <Item value="DeptId" priority="81" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DropDownList">
+      <Item value="DataSource" priority="26" />
+      <Item value="DataBind`0" priority="26" />
+      <Item value="DataTextField" priority="26" />
+      <Item value="DataValueField" priority="26" />
+      <Item value="SelectedValue" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Green" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

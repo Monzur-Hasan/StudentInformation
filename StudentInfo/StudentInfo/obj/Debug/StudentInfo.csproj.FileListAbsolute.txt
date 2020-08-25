@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\StudentInfo\StudentInfo\bin\StudentInfo.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\StudentInfo\StudentInfo\bin\StudentInfo.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\StudentInfo\StudentInfo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
+E:\Thesis_Project\StudentInfo\StudentInfo\StudentInfo\StudentInfo\bin\StudentInfo.dll
+E:\Thesis_Project\StudentInfo\StudentInfo\StudentInfo\StudentInfo\bin\StudentInfo.pdb
+E:\Thesis_Project\StudentInfo\StudentInfo\StudentInfo\StudentInfo\obj\Debug\StudentInfo.dll
+E:\Thesis_Project\StudentInfo\StudentInfo\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
